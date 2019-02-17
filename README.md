@@ -1,7 +1,4 @@
 # mano-robotica
-## PROYECTO FINAL -Arquitectura de Sistema de Elaboración de datos II- UNDAV
-## Estudiantes: Sol Gonzalez, Daniel Julián, Victoria Sol Caparelli
-
 
 ### OBJETIVO 
 
